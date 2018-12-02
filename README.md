@@ -24,8 +24,12 @@ A collection of articles with examples to use in quantitative teaching.
 
 Make a new issue in the repository or send me a mail at `E.G.Larsen@kent.ac.uk`.
 
+### Correlation
+
+- [IE Users Have Lower IQ Than Users of Other Web Browsers](https://mashable.com/2011/07/29/internet-explorer-iq/)
+
 ### Measurement
 
-- [Trump’s Lies vs. Obama’s](https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html)
-- [The Next Bechdel Test](https://projects.fivethirtyeight.com/next-bechdel/)
 - [Europeans greatly overestimate Muslim population, poll shows](https://www.theguardian.com/society/datablog/2016/dec/13/europeans-massively-overestimate-muslim-population-poll-shows)
+- [The Next Bechdel Test](https://projects.fivethirtyeight.com/next-bechdel/)
+- [Trump’s Lies vs. Obama’s](https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html)
